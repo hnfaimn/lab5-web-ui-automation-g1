@@ -1,5 +1,11 @@
 # Lab 5: Web UI Automation (Selenium)
 
+Group Members:
+1.     Hanif Aiman Bin Mohd Nafi 22002233
+2.     Nurul Afiqah Insyirah Binti Abu 22002020
+3.     Nurul Izzati Binti Hussni 22006837
+4.     Ahmad Zamani Ridzwan Bin Mohd Zawawi 22006275
+
 **Duration:** 2 hours  **Work mode:** groups
 
 **Application under test:** `https://pytodo-lab5.onrender.com` (a running PyTodo app with login)
